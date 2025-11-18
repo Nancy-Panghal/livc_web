@@ -64,7 +64,7 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r https://github.com/Nancy-Panghal/livc_web.git -b gh-pages --dist build/livc_web"
   },
   "eslintConfig": {
     "extends": [
