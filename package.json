@@ -2,7 +2,7 @@
   "name": "livc_web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nancy-Panghal.github.io/livc_web/",
+  "homepage": "https://Nancy-Panghal.github.io/livc_web",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
