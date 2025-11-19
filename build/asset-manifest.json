@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/livc_web/static/js/main.50b5d466.js",
+    "index.html": "/livc_web/index.html",
+    "main.50b5d466.js.map": "/livc_web/static/js/main.50b5d466.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.50b5d466.js"
+  ]
+}
