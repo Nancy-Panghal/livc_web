@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/livc_web/static/js/main.50b5d466.js",
+    "main.js": "/livc_web/static/js/main.ede6fc27.js",
     "index.html": "/livc_web/index.html",
-    "main.50b5d466.js.map": "/livc_web/static/js/main.50b5d466.js.map"
+    "main.ede6fc27.js.map": "/livc_web/static/js/main.ede6fc27.js.map"
   },
   "entrypoints": [
-    "static/js/main.50b5d466.js"
+    "static/js/main.ede6fc27.js"
   ]
 }

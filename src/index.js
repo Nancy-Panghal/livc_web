@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <h1 style={{textAlign:'center', marginTop:'200px', fontSize:'50px', color:'green'}}>
-    YES! YOUR REAL PAGE WORKS NOW 🚀
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <h1 style={{textAlign: 'center', marginTop: '200px', fontSize: '60px', color: 'green'}}>
+    🎉 YOUR REAL SITE WORKS NOW! 🎉
   </h1>
 );
